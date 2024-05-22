@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427101314149",
+    "project_id": "kesapp-2f195",
+    "storage_bucket": "kesapp-2f195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427101314149:android:70a8e867cd437a70b47a8c",
+        "android_client_info": {
+          "package_name": "com.example.ap4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDlD40ADyKdFmkyD5wQhLQn_W-eecbYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
